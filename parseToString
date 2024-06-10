@@ -1,0 +1,9 @@
+    public static String parseObjectToString(Object obj) {
+        if (obj instanceof Long || obj instanceof Integer || obj instanceof Boolean) {
+            return String.valueOf(obj);
+        } else if (obj instanceof String) {
+            return (String) obj;
+        } else {
+            return "Unsupported type";
+        }
+    }
