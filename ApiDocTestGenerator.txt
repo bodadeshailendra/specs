@@ -1,0 +1,94 @@
+
+Narrator: Mentioning the challanges: 
+
+ - Documenting APIs in a clear and understandable manner can be challenging.
+ - Maintaining consistency across API documentation can be difficult, especially if multiple people are involved in writing it. 
+ - Consistency in terminology, formatting, and structure is crucial for users to easily understand and navigate the documentation.
+ - Ensuring that the documentation accurately reflects the functionality of the API is essential. 
+ 
+ [This can be ignored: Any discrepancies between the documentation and the actual API behavior can lead to confusion and frustration for users.]
+
+Narrator: Are you getting into the challenges to create or maintain the API documentation?
+Are you also looking for creating tests for newly developed or modified APIs and validate the them?
+
+Usually this takes a lot amount of time to go through this entire process for any set of APIs.
+
+With Intelliswift, we have created a comprehensive tool to deal with entire process of documentation, test creation and validation in a flexible and efficient way! 
+
+[Voice Over Transcript]
+
+[Background music fades in]
+
+Narrator: Welcome to the API DocTest Generator application, where you can effortlessly create and manage API specifications and test collections. 
+Let's explore the key features and modules of this powerful tool.
+
+[Background music fades out]
+
+[Scene transition]
+
+Narrator: API DocTest Generator is useful for the following scenarios: 
+
+---------------------------------------------------------------------------
+
+	1. Creating a new API specification
+	
+	2. Updating an existing API Specification
+	
+	3. Generating API Tests Collection (Recently created API Spec and Test Data | Any of existing API Spec and Test Data)
+		
+	4. Execute an API Test Collection (Recently created Test Collection | Any Test Collection) 
+		
+---------------------------------------------------------------------------
+	
+[Scene transition]
+
+Narrator: Now, let's delve into the two main modules of the API DocTest Generator:
+
+[Scene transition]
+
+[Module 1: API DocGen Module]
+
+Narrator: The API Doc Gen Module empowers you to define and document your API specifications comprehensively.
+You can either create a new API specification or updating an existing API Specification.
+
+Narrator: 
+
+	It eanbles user to create New API Specification or Update Existing API Specification.
+	
+	To create an api spec, user need to load the base template and go to next section to provide further information over the documentation.
+	In the Document Info section, User needs to Specify documentation details like Title, Version, Detailed Description, Contact Details, Licenseing information and other references
+	Moving to next section i.e. API Servers, User needs to Define Host URL, basepath and description for the APIs.
+	
+	Security enables user to configure Security Schemes for your APIs.
+	Managing Tags by Organizing API operations with a flexible grouping mechanism.
+	With Schemas section user can define the Structure and data types of request/response payloads.
+	Path & Operations enables user to define API endpoints and supported HTTP methods along with related information.
+	Finally user can obtain comprehensive documentation based on the provided API specification details and can copy or exports as per the need.
+
+[Scene transition]
+
+[Module 2: API Test Wizard Module]
+
+Narrator: Another Important module is API Test Wizard. 
+This Module enables you to effortlessly generate and execute API test collections.
+
+[Scene transition]
+
+Narrator: - Test Case Generator: Automatically generate API requests in the form of a test collection.
+not only that, it also ingest test data as well as assertions for the created tests.
+You can either use recently generated API specification or can upload your existing API specification for which you wanted to create tests With the provision of test data.
+
+With Test Executor feature, user can execute the recently generated or any existing API test collection seamlessly with comprehensive report with detailed request and response information.
+
+[Scene transition]
+
+Narrator: With these intuitive modules, the API DocTest Generator simplifies the process of managing API specifications and testing, empowering you to streamline your development workflow effectively.
+
+[Background music fades in]
+
+Narrator: Experience the convenience and efficiency of the API DocTest Generator today! 
+For more details, please contact to our Technical\Marketing Leaders. 
+
+[Background music fades out]
+
+[Closing scene]
